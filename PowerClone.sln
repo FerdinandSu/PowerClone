@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerClone", "PowerClone\PowerClone.csproj", "{D7EB38C8-405A-4701-81C7-5BFC8CE5231B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7EB38C8-405A-4701-81C7-5BFC8CE5231B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EB38C8-405A-4701-81C7-5BFC8CE5231B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EB38C8-405A-4701-81C7-5BFC8CE5231B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EB38C8-405A-4701-81C7-5BFC8CE5231B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6965828B-7D74-417E-9D9E-27170E3C7E8E}
+	EndGlobalSection
+EndGlobal
